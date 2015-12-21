@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    float value;
+    double value;
     cout << "Enter a floating-point number: ";
     cin >> value;
     
